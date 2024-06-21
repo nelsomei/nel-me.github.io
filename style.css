@@ -23,6 +23,11 @@ nav li {
     list-style-type: none;
 }
 
+header {
+    position: absolute;
+    z-index: 2;
+}
+
 header nav a {
     text-decoration: none;
     float: right;
